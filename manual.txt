@@ -1,0 +1,55 @@
+20161026 和田宝成@CDB形態形成シグナル
+
+Plugin Name
+	ClippingArray
+
+FileName
+	ClippingArray_.jar
+
+製作者
+	和田　宝成
+
+概要
+	stack画像の時間軸に沿ったカイモグラフを作るプラグイン
+	ROIで囲った部分を切り取り、時間軸にそって縦及び横に並べた画像を作る
+	(Image/Crop > Image/Stacks/Make Montage 相当)
+	切り取った画像においては並べる方向にプロジェクションを行い幅1pixelの画像にし、またこれを任意のpixel数に引き伸ばした画像をつくりこれを用いてカイモグラフを作ることが可能
+	時間軸の始まりと終わりをしているすることが可能
+	直線ROIを用いた画像のRotationが可能
+
+機能説明
+	CheckBox : Projection
+		checked : 切り取った画像をプロジェクションする
+
+	ComboBox : Method
+		projectionのメソッド
+			Ave,Max,Min,Sum
+
+	CheckBox : Extention
+		checked : projection後の画像を拡張
+
+	TextArea : x
+		拡張倍率を指定(正の整数)
+
+	TextArea : start
+		カイモグラフに用いる最初の画像の位置を指定
+
+	TextArea : end
+		カイモグラフに用いる最後の画像の位置を指定
+	
+	RadioButton : Vertical, Horizon
+		水平および垂直方向の選択
+	
+	Button : Rotate
+		直線ROIを用いた画像の回転を行う
+	
+	Button : Make
+		上記設定にてROIで囲まれた部分のカイモグラフを作る
+	
+	
+その他の詳細情報
+
+注意点
+	projectionを行うことでなめらかな見やすい画像になるが、その背景には消え去った情報があることに留意する
+
+

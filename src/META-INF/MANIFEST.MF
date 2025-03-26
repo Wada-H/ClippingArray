@@ -1,0 +1,49 @@
+Manifest-Version: 1.0
+Class-Path: ffmpeg.jar javacv.jar opencv.jar javacpp.jar flandmark.jar
+  leptonica.jar libdc1394.jar tesseract.jar flycapture.jar videoinput.
+ jar libfreenect.jar libfreenect2.jar librealsense.jar artoolkitplus.j
+ ar ffmpeg-platform.jar javacv-platform.jar opencv-platform.jar ffmpeg
+ -linux-x86.jar opencv-ios-arm64.jar opencv-linux-x86.jar opencv-ios-x
+ 86_64.jar ffmpeg-android-arm.jar ffmpeg-android-x86.jar ffmpeg-linux-
+ armhf.jar ffmpeg-windows-x86.jar flandmark-platform.jar leptonica-pla
+ tform.jar libdc1394-platform.jar opencv-android-arm.jar opencv-androi
+ d-x86.jar opencv-linux-armhf.jar opencv-windows-x86.jar tesseract-pla
+ tform.jar ffmpeg-linux-x86_64.jar flandmark-linux-x86.jar flycapture-
+ platform.jar leptonica-linux-x86.jar libdc1394-linux-x86.jar opencv-l
+ inux-x86_64.jar tesseract-linux-x86.jar videoinput-platform.jar ffmpe
+ g-android-arm64.jar ffmpeg-linux-ppc64le.jar ffmpeg-macosx-x86_64.jar
+  flycapture-linux-x86.jar libfreenect-platform.jar opencv-android-arm
+ 64.jar opencv-linux-ppc64le.jar opencv-macosx-x86_64.jar ffmpeg-andro
+ id-x86_64.jar ffmpeg-windows-x86_64.jar flandmark-android-arm.jar fla
+ ndmark-android-x86.jar flandmark-linux-armhf.jar flandmark-windows-x8
+ 6.jar leptonica-android-arm.jar leptonica-android-x86.jar leptonica-l
+ inux-armhf.jar leptonica-windows-x86.jar libdc1394-linux-armhf.jar li
+ bdc1394-windows-x86.jar libfreenect-linux-x86.jar libfreenect2-platfo
+ rm.jar librealsense-platform.jar opencv-android-x86_64.jar opencv-win
+ dows-x86_64.jar tesseract-android-arm.jar tesseract-android-x86.jar t
+ esseract-linux-armhf.jar tesseract-windows-x86.jar artoolkitplus-plat
+ form.jar flandmark-linux-x86_64.jar flycapture-linux-armhf.jar flycap
+ ture-windows-x86.jar leptonica-linux-x86_64.jar libdc1394-linux-x86_6
+ 4.jar libfreenect2-linux-x86.jar librealsense-linux-x86.jar tesseract
+ -linux-x86_64.jar videoinput-windows-x86.jar artoolkitplus-linux-x86.
+ jar flandmark-android-arm64.jar flandmark-linux-ppc64le.jar flandmark
+ -macosx-x86_64.jar flycapture-linux-x86_64.jar leptonica-android-arm6
+ 4.jar leptonica-linux-ppc64le.jar leptonica-macosx-x86_64.jar libdc13
+ 94-linux-ppc64le.jar libdc1394-macosx-x86_64.jar libfreenect-linux-ar
+ mhf.jar libfreenect-windows-x86.jar tesseract-android-arm64.jar tesse
+ ract-linux-ppc64le.jar tesseract-macosx-x86_64.jar flandmark-android-
+ x86_64.jar flandmark-windows-x86_64.jar leptonica-android-x86_64.jar 
+ leptonica-windows-x86_64.jar libdc1394-windows-x86_64.jar libfreenect
+ -linux-x86_64.jar librealsense-windows-x86.jar tesseract-android-x86_
+ 64.jar tesseract-windows-x86_64.jar artoolkitplus-android-arm.jar art
+ oolkitplus-android-x86.jar artoolkitplus-linux-armhf.jar artoolkitplu
+ s-windows-x86.jar flycapture-windows-x86_64.jar libfreenect-linux-ppc
+ 64le.jar libfreenect-macosx-x86_64.jar libfreenect2-linux-x86_64.jar 
+ librealsense-linux-x86_64.jar videoinput-windows-x86_64.jar artoolkit
+ plus-linux-x86_64.jar libfreenect-windows-x86_64.jar libfreenect2-mac
+ osx-x86_64.jar librealsense-macosx-x86_64.jar artoolkitplus-android-a
+ rm64.jar artoolkitplus-linux-ppc64le.jar artoolkitplus-macosx-x86_64.
+ jar libfreenect2-windows-x86_64.jar librealsense-windows-x86_64.jar a
+ rtoolkitplus-android-x86_64.jar artoolkitplus-windows-x86_64.jar cont
+ rolsfx-8.40.14.jar
+
